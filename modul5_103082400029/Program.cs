@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Generic method
+
 namespace modul5_103082400029
 {
     class Penjumlahan
